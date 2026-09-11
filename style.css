@@ -19,7 +19,7 @@ float: right;
 text-align: right;
 font-weight: bold;
 padding: 10px;
-border-right: 6px solid black;
+border-right: 6px light blue;
 }
 
 aside::first-line {
